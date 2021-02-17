@@ -2,7 +2,7 @@
 
 # While the `md5sum` command exists on its own and performs
 # the same task, all this script does is add the most basic
-# of input interfaces, then format the output.
+# of input interfaces, formatting the output.
 
 echo -n "Enter the path of the file you wish to hash: "
 read INPUT
